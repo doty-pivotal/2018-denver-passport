@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2018 Summer Denver Passport Map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>2018 Summer Denver Map</name>
+      <Placemark>
+        <name>ace eat serve</name>
+        <address>501 E 17th Ave, DENVER, CO 80203</address>
+        <description><![CDATA[Address: 501 E 17th Ave, DENVER, CO 80203<br>Phone Number: (303)800-7705<br>Drink Offering: draft beer or highballs<br>Website: http://www.aceeatserve.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>501 E 17th Ave, DENVER, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)800-7705</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>draft beer or highballs</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.aceeatserve.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>aloy modern thai</name>
+        <address>2134 larimer st, denver, CO 80205</address>
+        <description><![CDATA[Address: 2134 larimer st, denver, CO 80205<br>Phone Number: (303)379-9759<br>Drink Offering: local can beers or mai tais <br>Website: http://www.aloymodernthai.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2134 larimer st, denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)379-9759</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>local can beers or mai tais </value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.aloymodernthai.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>alternation brewing company</name>
+        <address>1539 S Broadway, Denver, CO 80210</address>
+        <description><![CDATA[Address: 1539 S Broadway, Denver, CO 80210<br>Phone Number: (303)502-5340<br>Drink Offering: drafts<br>Website: http://www.alternationbrewing.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1539 S Broadway, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)502-5340</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.alternationbrewing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>american bonded</name>
+        <address>2706 Larimer St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2706 Larimer St, Denver, CO 80205<br>Phone Number: (303)942-1201<br>Drink Offering: single barrel old fashioned<br>Website: http://americanbonded.com/maybe]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2706 Larimer St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)942-1201</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>single barrel old fashioned</value>
+          </Data>
+          <Data name="Website">
+            <value>http://americanbonded.com/maybe</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[angelo's taverna]]></name>
+        <address>620 E 6th Ave, Denver, CO 80203</address>
+        <description><![CDATA[Address: 620 E 6th Ave, Denver, CO 80203<br>Phone Number: (303)744-3366<br>Drink Offering: carboy wine on tap<br>Website: http://angelostaverna.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>620 E 6th Ave, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)744-3366</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>carboy wine on tap</value>
+          </Data>
+          <Data name="Website">
+            <value>http://angelostaverna.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>banded oak brewing company</name>
+        <address>470 Broadway, Denver, CO 80203</address>
+        <description><![CDATA[Address: 470 Broadway, Denver, CO 80203<br>Phone Number: (720)479-8033<br>Drink Offering: drafts<br>Website: http://bandedoakbrewing.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>470 Broadway, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)479-8033</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://bandedoakbrewing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>bar fausto</name>
+        <address>3126 Larimer St, Denver, Co 80205</address>
+        <description><![CDATA[Address: 3126 Larimer St, Denver, Co 80205<br>Phone Number: (720)445-9691<br>Drink Offering: aperol spritz<br>Website: http://www.barfausto.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3126 Larimer St, Denver, Co 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)445-9691</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>aperol spritz</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.barfausto.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>bear creek distillery</name>
+        <address>1879 S Acoma St, Denver, Co 80223</address>
+        <description><![CDATA[Address: 1879 S Acoma St, Denver, Co 80223<br>Phone Number: (303)955-4638<br>Drink Offering: handcrafted cocktails<br>Website: http://bearcreekdistillery.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1879 S Acoma St, Denver, Co 80223</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)955-4638</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>handcrafted cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://bearcreekdistillery.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>bellwether</name>
+        <address>5126 E Colfax Ave, Denver, CO 80220</address>
+        <description><![CDATA[Address: 5126 E Colfax Ave, Denver, CO 80220<br>Phone Number: (720)398-9251<br>Drink Offering: bartender's choice or 400 yards due north<br>Website: http://bellwetherdenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5126 E Colfax Ave, Denver, CO 80220</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)398-9251</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value><![CDATA[bartender's choice or 400 yards due north]]></value>
+          </Data>
+          <Data name="Website">
+            <value>http://bellwetherdenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>bistro vendôme</name>
+        <address>1420 Larimer St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1420 Larimer St, Denver, CO 80202<br>Phone Number: (303)825-3232<br>Drink Offering: beer, cocktails, or wines by the glass<br>Website: http://bistrovendome.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1420 Larimer St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)825-3232</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>beer, cocktails, or wines by the glass</value>
+          </Data>
+          <Data name="Website">
+            <value>http://bistrovendome.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[block & larder]]></name>
+        <address>4000 Tennyson St, Denver, CO 80212</address>
+        <description><![CDATA[Address: 4000 Tennyson St, Denver, CO 80212<br>Phone Number: (303)433-4063<br>Drink Offering: cantarito<br>Website: http://blockandlarder.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4000 Tennyson St, Denver, CO 80212</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)433-4063</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cantarito</value>
+          </Data>
+          <Data name="Website">
+            <value>http://blockandlarder.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>brazen neighborhood eatery</name>
+        <address>4450 w 38th ave, Denver, CO 80221</address>
+        <description><![CDATA[Address: 4450 w 38th ave, Denver, CO 80221<br>Phone Number: (720)638-1242<br>Drink Offering: bye felicia or ruby sipper<br>Website: http://www.brazendenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4450 w 38th ave, Denver, CO 80221</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)638-1242</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>bye felicia or ruby sipper</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.brazendenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>cooper lounge</name>
+        <address>1701 Wynkoop St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1701 Wynkoop St, Denver, CO 80202<br>Phone Number: (720)460-3738<br>Drink Offering: cooper lounge old fashioned<br>Website: http://www.cooperlounge.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1701 Wynkoop St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)460-3738</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cooper lounge old fashioned</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.cooperlounge.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>crooked stave artisan beer project</name>
+        <address>3350 Brighton Blvd, Unit 130, Denver, CO 80216</address>
+        <description><![CDATA[Address: 3350 Brighton Blvd, Unit 130, Denver, CO 80216<br>Phone Number: (720)550-8860<br>Drink Offering: any beer $8 or les s<br>Website: http://www.crookedstave.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3350 Brighton Blvd, Unit 130, Denver, CO 80216</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)550-8860</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>any beer $8 or less</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.crookedstave.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[deep roots winery & bistro]]></name>
+        <address>1516 Wazee St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1516 Wazee St, Denver, CO 80202<br>Phone Number: (720)328-4786<br>Drink Offering: wine by the glass<br>Website: http://www.deeprootswines.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1516 Wazee St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)328-4786</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>wine by the glass</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.deeprootswines.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>denver distilery</name>
+        <address>244 s broadway, Denver, Colorado 80209</address>
+        <description><![CDATA[Address: 244 s broadway, Denver, Colorado 80209<br>Phone Number: (720)381-3226<br>Drink Offering: house cocktails<br>Website: http://denverdistillery.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>244 s broadway, Denver, Colorado 80209</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)381-3226</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://denverdistillery.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>dio mio</name>
+        <address>3264 Larimer St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 3264 Larimer St, Denver, CO 80205<br>Phone Number: (303)562-1965<br>Drink Offering: house red or white wine by the glass <br><br>Website: http://diomiopasta.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3264 Larimer St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)562-1965</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house red or white wine by the glass 
+</value>
+          </Data>
+          <Data name="Website">
+            <value>http://diomiopasta.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>el chapultepec</name>
+        <address>1962 market st, Denver, co 80202</address>
+        <description><![CDATA[Address: 1962 market st, Denver, co 80202<br>Phone Number: (303)295-9126<br>Drink Offering: bottled beer, drafts beer, or jazz-themed cocktails<br>Website: http://thepeclodo.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1962 market st, Denver, co 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)295-9126</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>bottled beer, drafts beer, or jazz-themed cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://thepeclodo.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[euclid hall bar & kitchen]]></name>
+        <address>1317 14th St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1317 14th St, Denver, CO 80202<br>Phone Number: (303)595-4255<br>Drink Offering: draft beers, beer cocktails, or specialty cocktails<br>Website: http://euclidhall.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1317 14th St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)595-4255</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>draft beers, beer cocktails, or specialty cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://euclidhall.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>family jones, the</name>
+        <address>3245 Osage St, Denver, CO 80211</address>
+        <description><![CDATA[Address: 3245 Osage St, Denver, CO 80211<br>Phone Number: (303)481-8185<br>Drink Offering: specialty cocktails<br>Website: http://thefamilyjones.co]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3245 Osage St, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)481-8185</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>specialty cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://thefamilyjones.co</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FERMÆNTRA</name>
+        <address>1715 E Evans Ave, Denver, CO 80210</address>
+        <description><![CDATA[Address: 1715 E Evans Ave, Denver, CO 80210<br>Phone Number: (303)955-0736<br>Drink Offering: drafts below 8% abv, excludes barrel aged<br>Website: http://www.fermaentra.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1715 E Evans Ave, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)955-0736</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts below 8% abv, excludes barrel aged</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.fermaentra.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fire Lounge at the ART hotel</name>
+        <address>1201 Broadway, Denver, CO 80203</address>
+        <description><![CDATA[Address: 1201 Broadway, Denver, CO 80203<br>Phone Number: (303)572-8000<br>Drink Offering: barrel aged old fashioned<br>Website: https://thearthotel.com/dine-drink/fire]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1201 Broadway, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)572-8000</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>barrel aged old fashioned</value>
+          </Data>
+          <Data name="Website">
+            <value>https://thearthotel.com/dine-drink/fire</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>fish n beer</name>
+        <address>3510 Larimer St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 3510 Larimer St, Denver, CO 80205<br>Phone Number: (303)248-3497<br>Drink Offering: cocktails, draft beer, or wine by the glass<br>Website: http://fishnbeerdenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3510 Larimer St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)248-3497</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cocktails, draft beer, or wine by the glass</value>
+          </Data>
+          <Data name="Website">
+            <value>http://fishnbeerdenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>fort greene</name>
+        <address>321 East 45th Ave, Denver, Co 80216</address>
+        <description><![CDATA[Address: 321 East 45th Ave, Denver, Co 80216<br>Phone Number: none<br>Drink Offering: badlands<br>Website: http://Fortgreenedenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>321 East 45th Ave, Denver, Co 80216</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>none</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>badlands</value>
+          </Data>
+          <Data name="Website">
+            <value>http://Fortgreenedenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>french 75</name>
+        <address>717 17th Street, Denver, CO 80203</address>
+        <description><![CDATA[Address: 717 17th Street, Denver, CO 80203<br>Phone Number: (303)405-7575<br>Drink Offering: French 75 or Louisville<br>Website: https://www.french75denver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>717 17th Street, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)405-7575</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>French 75 or Louisville</value>
+          </Data>
+          <Data name="Website">
+            <value>https://www.french75denver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>great divide brewing co.</name>
+        <address>2201 Arapahoe St, Denver, Co 80205</address>
+        <description><![CDATA[Address: 2201 Arapahoe St, Denver, Co 80205<br>Phone Number: (303)296-9460<br>Drink Offering: drafts or heyday modern ipa, excludes barrel aged beers<br>Website: http://greatdivide.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2201 Arapahoe St, Denver, Co 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)296-9460</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts or heyday modern ipa, excludes barrel aged beers</value>
+          </Data>
+          <Data name="Website">
+            <value>http://greatdivide.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>great divide brewing co.</name>
+        <address>1812 35th St, Denver, CO 80216</address>
+        <description><![CDATA[Address: 1812 35th St, Denver, CO 80216<br>Phone Number: (303)296-9460<br>Drink Offering: drafts or heyday modern ipa, excludes barrel aged beers<br>Website: http://greatdivide.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1812 35th St, Denver, CO 80216</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)296-9460</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts or heyday modern ipa, excludes barrel aged beers</value>
+          </Data>
+          <Data name="Website">
+            <value>http://greatdivide.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>hudson hill</name>
+        <address>619 East 13th Ave, Denver, CO 80203</address>
+        <description><![CDATA[Address: 619 East 13th Ave, Denver, CO 80203<br>Phone Number: (303)832-0776<br>Drink Offering: house cocktails<br>Website: http://www.hudsonhilldenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>619 East 13th Ave, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)832-0776</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.hudsonhilldenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[illegal pete's]]></name>
+        <address>1530 16th St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1530 16th St, Denver, CO 80202<br>Phone Number: (303) 623-2169<br>Drink Offering: house cocktails<br>Website: http://illegalpetes.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1530 16th St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 623-2169</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://illegalpetes.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[illegal pete's]]></name>
+        <address>270 S Broadway, Denver, CO 80209</address>
+        <description><![CDATA[Address: 270 S Broadway, Denver, CO 80209<br>Phone Number: (720) 287-5233<br>Drink Offering: house cocktails<br>Website: http://illegalpetes.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>270 S Broadway, Denver, CO 80209</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 287-5233</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://illegalpetes.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[illegal pete's]]></name>
+        <address>1744 E Evans Ave, Denver, CO 80210</address>
+        <description><![CDATA[Address: 1744 E Evans Ave, Denver, CO 80210<br>Phone Number: (720) 974-2198<br>Drink Offering: house cocktails<br>Website: http://illegalpetes.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1744 E Evans Ave, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 974-2198</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://illegalpetes.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[illegal pete's]]></name>
+        <address>1851 W 38th Ave, Denver, CO 80211</address>
+        <description><![CDATA[Address: 1851 W 38th Ave, Denver, CO 80211<br>Phone Number: (720) 400-7744<br>Drink Offering: house cocktails<br>Website: http://illegalpetes.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1851 W 38th Ave, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 400-7744</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://illegalpetes.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[illegal pete's]]></name>
+        <address>2001 E Colfax Ave, Denver, CO 80206</address>
+        <description><![CDATA[Address: 2001 E Colfax Ave, Denver, CO 80206<br>Phone Number: (720) 723-2703<br>Drink Offering: house cocktails<br>Website: http://illegalpetes.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2001 E Colfax Ave, Denver, CO 80206</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 723-2703</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://illegalpetes.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[jax fish house & oyster bar]]></name>
+        <address>1539 17th St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1539 17th St, Denver, CO 80202<br>Phone Number: (303)292-5767<br>Drink Offering: cucumber lemon press, rotating tap cocktail, or strawberry lemonade<br>Website: http://www.jaxfishhouse.com/lodo/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1539 17th St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)292-5767</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cucumber lemon press, rotating tap cocktail, or strawberry lemonade</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.jaxfishhouse.com/lodo/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>kachina cantina</name>
+        <address>1890 Wazee St, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1890 Wazee St, Denver, CO 80202<br>Phone Number: (720)460-2728<br>Drink Offering: k'ohanna white or shilowa red sangria<br>Website: http://kachinadenver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1890 Wazee St, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)460-2728</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value><![CDATA[k'ohanna white or shilowa red sangria]]></value>
+          </Data>
+          <Data name="Website">
+            <value>http://kachinadenver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>leña</name>
+        <address>24 Broadway, Denver, Co 80203</address>
+        <description><![CDATA[Address: 24 Broadway, Denver, Co 80203<br>Phone Number: (720)550-7267<br>Drink Offering: house margarita or sangria<br>Website: http://www.lenadenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>24 Broadway, Denver, Co 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)550-7267</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house margarita or sangria</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.lenadenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>leopold bros.</name>
+        <address>5285 Joliet St, Denver, CO 80239</address>
+        <description><![CDATA[Address: 5285 Joliet St, Denver, CO 80239<br>Phone Number: (303)307-1515<br>Drink Offering: tastings<br>Website: http://www.leopoldbros.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>5285 Joliet St, Denver, CO 80239</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)307-1515</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>tastings</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.leopoldbros.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>lola coastal mexican</name>
+        <address>1575 Boulder St, Denver, CO 80211</address>
+        <description><![CDATA[Address: 1575 Boulder St, Denver, CO 80211<br>Phone Number: (720)570-8686<br>Drink Offering: silver coin margaritas<br>Website: http://www.loladenver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1575 Boulder St, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)570-8686</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>silver coin margaritas</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.loladenver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>LOW country kitchen</name>
+        <address>1575 Boulder St., Denver, CO 80211</address>
+        <description><![CDATA[Address: 1575 Boulder St., Denver, CO 80211<br>Phone Number: (720)512-4168<br>Drink Offering: specialty cocktails<br>Website: http://lowrestaurant.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1575 Boulder St., Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)512-4168</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>specialty cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lowrestaurant.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>lowry beer garden</name>
+        <address>7577 E Academy Blvd., Denver, CO 80320</address>
+        <description><![CDATA[Address: 7577 E Academy Blvd., Denver, CO 80320<br>Phone Number: (303)366-0114<br>Drink Offering: drafts<br>Website: http://lowrybeergarden.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>7577 E Academy Blvd., Denver, CO 80320</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)366-0114</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lowrybeergarden.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>luca</name>
+        <address>711 Grant St, Denver, Colorado 80203</address>
+        <description><![CDATA[Address: 711 Grant St, Denver, Colorado 80203<br>Phone Number: (303)832-6600<br>Drink Offering: frozen aperol spritz<br>Website: http://lucadenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>711 Grant St, Denver, Colorado 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)832-6600</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>frozen aperol spritz</value>
+          </Data>
+          <Data name="Website">
+            <value>http://lucadenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>middleman</name>
+        <address>3401 E Colfax, Denver, CO 80206</address>
+        <description><![CDATA[Address: 3401 E Colfax, Denver, CO 80206<br>Phone Number: TBD<br>Drink Offering: the old 1-2-3<br>Website: http://middlemanbar.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3401 E Colfax, Denver, CO 80206</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>TBD</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>the old 1-2-3</value>
+          </Data>
+          <Data name="Website">
+            <value>http://middlemanbar.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>moo bar at milk market</name>
+        <address>1800 Wazee St, Denver, Colorado 80202</address>
+        <description><![CDATA[Address: 1800 Wazee St, Denver, Colorado 80202<br>Phone Number: (513)543-5075<br>Drink Offering: denver bees knees<br>Website: http://denvermilkmarket.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1800 Wazee St, Denver, Colorado 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(513)543-5075</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>denver bees knees</value>
+          </Data>
+          <Data name="Website">
+            <value>http://denvermilkmarket.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>north county</name>
+        <address>94 Rampart Way, Denver, CO 80230</address>
+        <description><![CDATA[Address: 94 Rampart Way, Denver, CO 80230<br>Phone Number: (720)532-0106<br>Drink Offering: house margarita or strawberry house margarita<br>Website: http://www.northcountydenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>94 Rampart Way, Denver, CO 80230</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)532-0106</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house margarita or strawberry house margarita</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.northcountydenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>odell brewing co</name>
+        <address>2945 Larimer St, Denver, Colorado 80205</address>
+        <description><![CDATA[Address: 2945 Larimer St, Denver, Colorado 80205<br>Phone Number: (970)498-9070<br>Drink Offering: drafts<br>Website: http://odellbrewing.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2945 Larimer St, Denver, Colorado 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(970)498-9070</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://odellbrewing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ophelia's electric soapbox]]></name>
+        <address>1215 20th St, Denver, Colorado 80202</address>
+        <description><![CDATA[Address: 1215 20th St, Denver, Colorado 80202<br>Phone Number: (303)993-8023<br>Drink Offering: cocktails<br>Website: http://www.opheliasdenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1215 20th St, Denver, Colorado 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)993-8023</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.opheliasdenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[oskar blues grill & brew/ the black buzzard]]></name>
+        <address>1624 market st, denver co 80202</address>
+        <description><![CDATA[Address: 1624 market st, denver co 80202<br>Phone Number: (720)502-3535<br>Drink Offering: core drafts<br>Website: https://oskarbluesfooderies.com/oskar-blues/oskar-blues-denver/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1624 market st, denver co 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)502-3535</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>core drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>https://oskarbluesfooderies.com/oskar-blues/oskar-blues-denver/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>park burger</name>
+        <address>2643 W 32nd Ave, Denver, CO 80211</address>
+        <description><![CDATA[Address: 2643 W 32nd Ave, Denver, CO 80211<br>Phone Number: (303) 862-8461<br>Drink Offering: drafts<br>Website: http://www.parkburger.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2643 W 32nd Ave, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 862-8461</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.parkburger.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>park burger</name>
+        <address>211 S Holly St, Denver, CO 80246</address>
+        <description><![CDATA[Address: 211 S Holly St, Denver, CO 80246<br>Phone Number: (303) 942-0145<br>Drink Offering: drafts<br>Website: http://www.parkburger.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>211 S Holly St, Denver, CO 80246</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 942-0145</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.parkburger.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>park burger</name>
+        <address>1890 S Pearl St, Denver, CO 80210</address>
+        <description><![CDATA[Address: 1890 S Pearl St, Denver, CO 80210<br>Phone Number: (720) 242-9951<br>Drink Offering: drafts<br>Website: http://www.parkburger.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1890 S Pearl St, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 242-9951</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.parkburger.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>park burger</name>
+        <address>2615 Walnut St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2615 Walnut St, Denver, CO 80205<br>Phone Number: (720) 381-0126<br>Drink Offering: drafts<br>Website: http://www.parkburger.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2615 Walnut St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 381-0126</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.parkburger.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>post brewing co, the</name>
+        <address>2200 S Broadway, Denver, CO 80210</address>
+        <description><![CDATA[Address: 2200 S Broadway, Denver, CO 80210<br>Phone Number: (720)466-5699<br>Drink Offering: drafts<br>Website: http://www.postbrewing.com/rosedale/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2200 S Broadway, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)466-5699</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.postbrewing.com/rosedale/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>punch bowl social</name>
+        <address>65 Broadway, Denver, CO 80203</address>
+        <description><![CDATA[Address: 65 Broadway, Denver, CO 80203<br>Phone Number: (303) 765-2695<br>Drink Offering: watermelon polo bowl punch<br>Website: http://www.punchbowlsocial.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>65 Broadway, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 765-2695</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>watermelon polo bowl punch</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.punchbowlsocial.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>punch bowl social</name>
+        <address>3120 N Uinta St, Denver, CO 80238</address>
+        <description><![CDATA[Address: 3120 N Uinta St, Denver, CO 80238<br>Phone Number: (720)500-3788<br>Drink Offering: watermelon polo bowl punch<br>Website: http://www.punchbowlsocial.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3120 N Uinta St, Denver, CO 80238</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)500-3788</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>watermelon polo bowl punch</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.punchbowlsocial.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ratio beerworks</name>
+        <address>2920 Larimer St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2920 Larimer St, Denver, CO 80205<br>Phone Number: (303)997-8288<br>Drink Offering: antidote, dear you, domestica, hold steady, repeater, or rented world<br>Website: http://www.ratiobeerworks.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2920 Larimer St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)997-8288</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>antidote, dear you, domestica, hold steady, repeater, or rented world</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.ratiobeerworks.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>root down</name>
+        <address>1600 W 33rd Ave, Denver, CO 80211</address>
+        <description><![CDATA[Address: 1600 W 33rd Ave, Denver, CO 80211<br>Phone Number: (303)993-4200<br>Drink Offering: cocktails<br>Website: http://www.rootdowndenver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1600 W 33rd Ave, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)993-4200</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.rootdowndenver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[sarto's]]></name>
+        <address>2900 W 25th Ave, Denver, CO 80211</address>
+        <description><![CDATA[Address: 2900 W 25th Ave, Denver, CO 80211<br>Phone Number: (303)455-1400<br>Drink Offering: beer, spritz, or wine by the glass<br>Website: http://sartos.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2900 W 25th Ave, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)455-1400</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>beer, spritz, or wine by the glass</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sartos.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>seedstock brewery</name>
+        <address>3610 w Colfax ave, Denver, co 801204</address>
+        <description><![CDATA[Address: 3610 w Colfax ave, Denver, co 801204<br>Phone Number: (720) 476-7831<br>Drink Offering: drafts<br>Website: http://seedstockbrewery.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3610 w Colfax ave, Denver, co 801204</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 476-7831</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://seedstockbrewery.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>skyline beer garden</name>
+        <address>1601 Arapahoe St, Denver, Co 80202</address>
+        <description><![CDATA[Address: 1601 Arapahoe St, Denver, Co 80202<br>Phone Number: (303)825-6787<br>Drink Offering: colorado drafts<br>Website: http://Skylinebeergarden.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1601 Arapahoe St, Denver, Co 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)825-6787</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>colorado drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://Skylinebeergarden.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>spangalang brewery</name>
+        <address>2736 welton st ste 102, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2736 welton st ste 102, Denver, CO 80205<br>Phone Number: (303)297-1276<br>Drink Offering: drafts<br>Website: http://spangalangbrewery.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2736 welton st ste 102, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)297-1276</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts</value>
+          </Data>
+          <Data name="Website">
+            <value>http://spangalangbrewery.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>stem ciders</name>
+        <address>2811 walnut St, Suite 150, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2811 walnut St, Suite 150, Denver, CO 80205<br>Phone Number: (720)443-3007<br>Drink Offering: 10 oz stem ciders pour<br>Website: http://Stemciders.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2811 walnut St, Suite 150, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)443-3007</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>10 oz stem ciders pour</value>
+          </Data>
+          <Data name="Website">
+            <value>http://Stemciders.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[steuben's uptown]]></name>
+        <address>523 E 17 Ave, DENVER, CO 80203</address>
+        <description><![CDATA[Address: 523 E 17 Ave, DENVER, CO 80203<br>Phone Number: (303) 830-1001<br>Drink Offering: featured classics<br>Website: http://www.steubens.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>523 E 17 Ave, DENVER, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 830-1001</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>featured classics</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.steubens.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[stoic & genuine]]></name>
+        <address>1701 Wynkoop, Suite 200, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1701 Wynkoop, Suite 200, Denver, CO 80202<br>Phone Number: (303) 640-3474<br>Drink Offering: specialty cocktails and wine by the glass<br>Website: http://stoicandgenuine.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1701 Wynkoop, Suite 200, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 640-3474</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>specialty cocktails and wine by the glass</value>
+          </Data>
+          <Data name="Website">
+            <value>http://stoicandgenuine.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[stranahan's colorado whiskey]]></name>
+        <address>200 S Kalamath St, Denver, Co 80223</address>
+        <description><![CDATA[Address: 200 S Kalamath St, Denver, Co 80223<br>Phone Number: (303) 296-7440<br>Drink Offering: classic cocktail or season cocktail<br>Website: http://stranahans.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>200 S Kalamath St, Denver, Co 80223</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303) 296-7440</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>classic cocktail or season cocktail</value>
+          </Data>
+          <Data name="Website">
+            <value>http://stranahans.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>tacos tequila whiskey</name>
+        <address>1514 York St, Denver, CO 80206</address>
+        <description><![CDATA[Address: 1514 York St, Denver, CO 80206<br>Phone Number: (720)475-1337<br>Drink Offering: house margarita or paloma<br>Website: http://tacostequilawhiskey.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1514 York St, Denver, CO 80206</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)475-1337</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house margarita or paloma</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tacostequilawhiskey.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>tacos tequila whiskey</name>
+        <address>3300 W 32nd Ave, Denver, CO 80211</address>
+        <description><![CDATA[Address: 3300 W 32nd Ave, Denver, CO 80211<br>Phone Number: (720) 502-4608<br>Drink Offering: house margarita or paloma<br>Website: http://tacostequilawhiskey.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3300 W 32nd Ave, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 502-4608</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house margarita or paloma</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tacostequilawhiskey.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>tacos tequila whiskey</name>
+        <address>215 E 7th Ave, Denver, CO 80203</address>
+        <description><![CDATA[Address: 215 E 7th Ave, Denver, CO 80203<br>Phone Number: (720) 458-0989<br>Drink Offering: house margarita or paloma<br>Website: http://tacostequilawhiskey.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>215 E 7th Ave, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720) 458-0989</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>house margarita or paloma</value>
+          </Data>
+          <Data name="Website">
+            <value>http://tacostequilawhiskey.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>tatarian</name>
+        <address>4024 Tennyson St, Denver, CO 80212</address>
+        <description><![CDATA[Address: 4024 Tennyson St, Denver, CO 80212<br>Phone Number: (303)416-4496<br>Drink Offering: drunken tree, neem neem, or tatarian<br>Website: http://Thetatarian.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>4024 Tennyson St, Denver, CO 80212</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)416-4496</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drunken tree, neem neem, or tatarian</value>
+          </Data>
+          <Data name="Website">
+            <value>http://Thetatarian.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>there...</name>
+        <address>3254 Navajo st, Denver, Co 80211</address>
+        <description><![CDATA[Address: 3254 Navajo st, Denver, Co 80211<br>Phone Number: (720)500-3254<br>Drink Offering: cocktails from the shaken or black list<br>Website: http://Experiencethere.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3254 Navajo st, Denver, Co 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)500-3254</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cocktails from the shaken or black list</value>
+          </Data>
+          <Data name="Website">
+            <value>http://Experiencethere.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TRVE brewing company</name>
+        <address>227 Broadway, Denver, co 80209</address>
+        <description><![CDATA[Address: 227 Broadway, Denver, co 80209<br>Phone Number: (303)351-1021<br>Drink Offering: cold kellerpils<br>Website: http://trvebrewing.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>227 Broadway, Denver, co 80209</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)351-1021</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cold kellerpils</value>
+          </Data>
+          <Data name="Website">
+            <value>http://trvebrewing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ultreia</name>
+        <address>1701 Wynkoop, Suite 125, Denver, co 80202</address>
+        <description><![CDATA[Address: 1701 Wynkoop, Suite 125, Denver, co 80202<br>Phone Number: (303)534-1970<br>Drink Offering: specialty cocktails and sherries<br>Website: http://ultreiadenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1701 Wynkoop, Suite 125, Denver, co 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)534-1970</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>specialty cocktails and sherries</value>
+          </Data>
+          <Data name="Website">
+            <value>http://ultreiadenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>upstairs circus</name>
+        <address>1500 Wynkoop St #100, Denver, CO 80202</address>
+        <description><![CDATA[Address: 1500 Wynkoop St #100, Denver, CO 80202<br>Phone Number: (720)722-2105<br>Drink Offering: special passport menu drinks<br>Website: https://upstairscircus.com/co/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1500 Wynkoop St #100, Denver, CO 80202</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)722-2105</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>special passport menu drinks</value>
+          </Data>
+          <Data name="Website">
+            <value>https://upstairscircus.com/co/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>vesper lounge</name>
+        <address>233 E 7th Ave, Denver, CO 80203</address>
+        <description><![CDATA[Address: 233 E 7th Ave, Denver, CO 80203<br>Phone Number: (720)328-0314<br>Drink Offering: draft cocktails<br>Website: http://vesperdenver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>233 E 7th Ave, Denver, CO 80203</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)328-0314</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>draft cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://vesperdenver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>vital root</name>
+        <address>3915 TENNYSON ST, Denver, CO 80212</address>
+        <description><![CDATA[Address: 3915 TENNYSON ST, Denver, CO 80212<br>Phone Number: (303)474-4131<br>Drink Offering: cocktails<br>Website: http://www.vitalrootdenver.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3915 TENNYSON ST, Denver, CO 80212</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)474-4131</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.vitalrootdenver.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>way back, the</name>
+        <address>3963 Tennyson St, Denver, CO 80212</address>
+        <description><![CDATA[Address: 3963 Tennyson St, Denver, CO 80212<br>Phone Number: (970)682-6888<br>Drink Offering: Please ask to see our special Summer Passport Beer/Wine/Cocktail menu featuring our latest favorite creations. Valid in bar area only.<br>Website: http://www.thewaybackdenver.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3963 Tennyson St, Denver, CO 80212</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(970)682-6888</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>Please ask to see our special Summer Passport Beer/Wine/Cocktail menu featuring our latest favorite creations. Valid in bar area only.</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.thewaybackdenver.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>woods boss brewing company</name>
+        <address>2210 California St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2210 California St, Denver, CO 80205<br>Phone Number: (720)642-7177<br>Drink Offering: drafts less than 8% ABV<br>Website: http://www.woodsbossbrewing.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2210 California St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)642-7177</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>drafts less than 8% ABV</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.woodsbossbrewing.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>zeppelin station</name>
+        <address>3501 Wazee St Suite #100, Denver, Colorado 80216</address>
+        <description><![CDATA[Address: 3501 Wazee St Suite #100, Denver, Colorado 80216<br>Phone Number: (720)460-1978<br>Drink Offering: bottled cocktails<br>Website: http://zeppelinstation.com]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>3501 Wazee St Suite #100, Denver, Colorado 80216</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(720)460-1978</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>bottled cocktails</value>
+          </Data>
+          <Data name="Website">
+            <value>http://zeppelinstation.com</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>marquis pizza</name>
+        <address>2009 Larimer St, Denver, CO 80205</address>
+        <description><![CDATA[Address: 2009 Larimer St, Denver, CO 80205<br>Phone Number: (303)292-2829<br>Drink Offering: slices<br>Website: http://www.marquispizza.com/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2009 Larimer St, Denver, CO 80205</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)292-2829</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>slices</value>
+          </Data>
+          <Data name="Website">
+            <value>http://www.marquispizza.com/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>sexy pizza</name>
+        <address>1018 E 11th Ave, Denver, CO 80218</address>
+        <description><![CDATA[Address: 1018 E 11th Ave, Denver, CO 80218<br>Phone Number: (303)830-8111<br>Drink Offering: slices<br>Website: http://sexy.pizza/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1018 E 11th Ave, Denver, CO 80218</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)830-8111</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>slices</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sexy.pizza/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>sexy pizza</name>
+        <address>2460 Eliot St, Denver, CO 80211</address>
+        <description><![CDATA[Address: 2460 Eliot St, Denver, CO 80211<br>Phone Number: (303)927-7764<br>Drink Offering: slices<br>Website: http://sexy.pizza/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>2460 Eliot St, Denver, CO 80211</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)927-7764</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>slices</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sexy.pizza/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>sexy pizza</name>
+        <address>1579 S Pearl St, Denver, CO 80210</address>
+        <description><![CDATA[Address: 1579 S Pearl St, Denver, CO 80210<br>Phone Number: (303)777-5878<br>Drink Offering: slices<br>Website: http://sexy.pizza/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Address">
+            <value>1579 S Pearl St, Denver, CO 80210</value>
+          </Data>
+          <Data name="Phone Number">
+            <value>(303)777-5878</value>
+          </Data>
+          <Data name="Drink Offering">
+            <value>slices</value>
+          </Data>
+          <Data name="Website">
+            <value>http://sexy.pizza/</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
